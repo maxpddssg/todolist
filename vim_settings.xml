@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1504286740576">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasstest.py" timestamp="1504228935067">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="6" />
@@ -93,7 +96,7 @@
       <last-offset />
       <last-pattern>pop</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
