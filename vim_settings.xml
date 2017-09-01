@@ -1,0 +1,130 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/p1/metaclasstest.py" timestamp="1504228935067">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/ormsample.py" timestamp="1504245319320">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="85" column="12" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" timestamp="1504245096189">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="71" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="10" column="15" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="26" column="55" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="84" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="68" column="31" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="61" column="8" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="65" column="12" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="16" column="16" filename="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" />
+      <jump line="86" column="6" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="37" column="18" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcmdzLmFwcGVuZChnZXRhdHRyKHN1cGVyLCBrLCBOb25lKSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text>pop</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXJncy5hcHBlbmQoZ2V0YXR0cihzZWxmLCBrLCBOb25lKSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBhcmdzLmFwcGVuZChnZXRhdHRyKHN1cGVyLCBrLCBOb25lKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyBwcmludCgndS5pZCcsIHR5cGUodS5pZCksIHUuaWQpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyB1LmlkID0gJzEyMycK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlkID0gMQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgQygpOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQoVXNlci5pZCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChuYW1lKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>pop</last-search>
+      <last-offset />
+      <last-pattern>pop</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>table</entry>
+        <entry>args</entry>
+        <entry>ARGS</entry>
+        <entry>pop</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
