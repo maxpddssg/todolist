@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504288432877">
+      <file name="/Dummy.txt" timestamp="1504326771214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasstest.py" timestamp="1504228935067">
@@ -12,7 +12,6 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/learnpython/.git/info/exclude" timestamp="1504286941149" />
       <file name="$USER_HOME$/PycharmProjects/learnpython/.gitignore" timestamp="1504287064368">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
