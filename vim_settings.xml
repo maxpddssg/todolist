@@ -17,11 +17,17 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/app.py" timestamp="1504327779401">
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="60" />
-        <mark key="." line="8" column="60" />
+      <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504332927747">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/app.py" timestamp="1504332524857">
+        <mark key="[" line="8" column="89" />
+        <mark key="]" line="8" column="89" />
+        <mark key="^" line="8" column="89" />
+        <mark key="." line="8" column="89" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/ormsample.py" timestamp="1504245319320">
         <mark key="'" line="66" column="0" />
@@ -60,10 +66,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">eWllbGQgZnJvbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">eWllbGQgZnJvbSA=</text>
       </register>
       <register name="/" type="4">
         <text>pop</text>
@@ -72,31 +78,31 @@
         <text encoding="base64">ICAgIHJldHVybiB3ZWIuUmVzcG9uc2UoYm9keT1iJzxoMT5Bd2Vzb21lPC9oMT4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBiJzxoMT5Bd2Vzb21lPC9oMT4nCg==</text>
+        <text encoding="base64">QGFzeW5jaW8uY29yb3V0aW5lCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIHdlYi5SZXNwb25zZShib2R5PWInPGgxPkF3ZXNvbWU8L2gxPicpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBiJzxoMT5Bd2Vzb21lPC9oMT4nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IS8uZ2l0aWdub3JlCg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIHdlYi5SZXNwb25zZShib2R5PWInPGgxPkF3ZXNvbWU8L2gxPicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly5naXRpZ25vcmUK</text>
+        <text encoding="base64">IS8uZ2l0aWdub3JlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly5naXRpZ25vcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
+        <text encoding="base64">LmlkZWEvd29ya3NwYWNlLnhtbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
+        <text encoding="base64">LmlkZWEvbW9kdWxlcy54bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBhcmdzLmFwcGVuZChnZXRhdHRyKHN1cGVyLCBrLCBOb25lKSkK</text>
+        <text encoding="base64">LmlkZWEvbWlzYy54bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
