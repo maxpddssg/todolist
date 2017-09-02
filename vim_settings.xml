@@ -8,17 +8,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1504337682225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasstest.py" timestamp="1504228935067">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="6" />
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/generatorsample.py" timestamp="1504337103512">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="15" column="15" />
-        <mark key="." line="15" column="15" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/p1/generatorsample.py" timestamp="1504337679491">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/learnpython/.gitignore" timestamp="1504287064368">
         <mark key="[" line="1" column="0" />
@@ -51,6 +54,12 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/itersample.py" timestamp="1504337841254">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="25" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
@@ -73,11 +82,11 @@
       <jump line="66" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2cgPSBnMSgxMCkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>pop</text>
