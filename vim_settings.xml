@@ -14,6 +14,13 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/orm.py" timestamp="1504413684601">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="148" column="47" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1504337682225">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +42,12 @@
         <mark key="^" line="8" column="89" />
         <mark key="." line="8" column="89" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/dist/schema.sql" timestamp="1504411283756">
+        <mark key="[" line="8" column="91" />
+        <mark key="]" line="8" column="93" />
+        <mark key="^" line="8" column="93" />
+        <mark key="." line="8" column="93" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/ormsample.py" timestamp="1504245319320">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="66" column="0" />
@@ -48,6 +61,12 @@
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="73" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt.py" timestamp="1504413959982">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="20" column="26" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" timestamp="1504245096189">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="16" column="27" />
@@ -60,6 +79,13 @@
         <mark key="]" line="22" column="24" />
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/models.py" timestamp="1504413827237">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app.py" timestamp="1504373260590">
         <mark key="[" line="9" column="17" />
@@ -91,12 +117,12 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/.gitignore" timestamp="1504381228636">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="55" column="12" />
+      <file name="$USER_HOME$/PycharmProjects/apw3/.gitignore" timestamp="1504410843090">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="55" column="12" />
-        <mark key="." line="55" column="12" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app2.py" timestamp="1504374021927">
         <mark key="[" line="12" column="16" />
@@ -147,55 +173,60 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="214" column="13" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="55" column="12" filename="$USER_HOME$/PycharmProjects/apw3/.gitignore" />
+      <jump line="222" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/apw3/.gitignore" />
+      <jump line="44" column="18" filename="$USER_HOME$/PycharmProjects/apw3/www/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/models.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Om1lbW9yeXZpZXcK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asyncio.wait([t1(loop), t2(loop), t3(loop)]))</text>
       </register>
       <register name="/" type="4">
-        <text>create_arg</text>
+        <text>sql</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyaW5nRmllbGQoRmllbGQpOgogICAgCiAgICBkZWYgX19pbml0X18oc2VsZiwgbmFtZT1Ob25lLCBwcmltYXJ5X2tleT1GYWxzZSwgZGVmYXVsdD1Ob25lLCBkZGw9J3ZhcmNoYXIoMTAwKScpOgogICAgICAgIHN1cGVyKCkuX19pbml0X18obmFtZSwgZGRsLCBwcmltYXJ5X2tleSwgZGVmYXVsdCkK</text>
+      <register name="0" type="4">
+        <text>[t1(loop), t2(loop), t3(loop)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Om1lbW9yeXZpZXcK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Om1lbW9yeXZpZXcK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGNsYXNzIEJsb2coTW9kZWwpOgojICAgICBfX3RhYmxlX18gPSAnYmxvZ3MnCiMKIyAgICAgaWQgPSBTdHJpbmdGaWVsZChwcmltYXJ5X2tleT1UcnVlLCBkZWZhdWx0PW5leHRfaWQsIGRkbD0ndmFyY2hhcig1MCknKQojICAgICB1c2VyX2lkID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwKScpCiMgICAgIHVzZXJfbmFtZSA9IFN0cmluZ0ZpZWxkKGRkbD0ndmFyY2hhcig1MCknKQojICAgICB1c2VyX2ltYWdlID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwMCknKQojICAgICBuYW1lID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwKScpCiMgICAgIHN1bW1hcnkgPSBTdHJpbmdGaWVsZChkZGw9J3ZhcmNoYXIoMjAwKScpCiMgICAgIGNvbnRlbnQgPSBUZXh0RmllbGQoKQojICAgICBjcmVhdGVkX2F0ID0gRmxvYXRGaWVsZChkZWZhdWx0PXRpbWUudGltZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICMgYXdhaXQgYi5zYXZlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHUuc2F2ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGIgPSBCbG9nKHVzZXJfaWQ9J3VzZXJfaWQnLCB1c2VyX2ltYWdlPSd1c2VyX2ltYWdlJywgbmFtZT0nbmFtZScsIHN1bW1hcnk9J3MnLCBjb250ZW50PSdhJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHUgPSBVc2VyKG5hbWU9J1Rlc3QnLCBlbWFpbD0ndGVzdEBleGFtcGxlLmNvbScsIHBhc3N3ZD0nMTIzJywgaW1hZ2U9J2Fib3V0LmJsYW5rJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwcC5jcmVhdGVfc2VydmVyKCkK</text>
+        <text encoding="base64">ICAgICMgYXdhaXQgYy5zYXZlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHUuc2F2ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>create_arg</last-search>
+      <last-search>sql</last-search>
       <last-offset />
-      <last-pattern>create_arg</last-pattern>
+      <last-pattern>sql</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -208,10 +239,11 @@
         <entry>int</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry>create_arg</entry>
+        <entry>sql</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
