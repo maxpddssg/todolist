@@ -12,6 +12,9 @@
         <mark key="^" line="13" column="6" />
         <mark key="." line="13" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1504416819372">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/app.py" timestamp="1504332524857">
         <mark key="[" line="8" column="89" />
         <mark key="]" line="8" column="89" />
@@ -31,11 +34,11 @@
         <mark key="^" line="85" column="12" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt.py" timestamp="1504413959982">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="20" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt.py" timestamp="1504416349161">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app.py" timestamp="1504373260590">
         <mark key="[" line="9" column="17" />
@@ -93,12 +96,12 @@
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/orm.py" timestamp="1504413684601">
-        <mark key="'" line="221" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="148" column="47" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/orm.py" timestamp="1504416013821">
+        <mark key="'" line="49" column="10" />
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="60" />
+        <mark key="^" line="50" column="60" />
+        <mark key="." line="50" column="60" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504357698199">
         <mark key="[" line="13" column="10" />
@@ -181,55 +184,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/models.py" />
       <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/models.py" />
       <jump line="4" column="1" filename="$USER_HOME$/PycharmProjects/apw3/www/ormt1.py" />
+      <jump line="231" column="26" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
+      <jump line="237" column="21" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
+      <jump line="49" column="10" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9vcC5jbG9zZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>pas</text>
+        <text>execute</text>
       </register>
       <register name="0" type="4">
         <text>[t1(loop), t2(loop), t3(loop)]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bG9vcC5jbG9zZSgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Iwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IGNsYXNzIEJsb2coTW9kZWwpOgojICAgICBfX3RhYmxlX18gPSAnYmxvZ3MnCiMKIyAgICAgaWQgPSBTdHJpbmdGaWVsZChwcmltYXJ5X2tleT1UcnVlLCBkZWZhdWx0PW5leHRfaWQsIGRkbD0ndmFyY2hhcig1MCknKQojICAgICB1c2VyX2lkID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwKScpCiMgICAgIHVzZXJfbmFtZSA9IFN0cmluZ0ZpZWxkKGRkbD0ndmFyY2hhcig1MCknKQojICAgICB1c2VyX2ltYWdlID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwMCknKQojICAgICBuYW1lID0gU3RyaW5nRmllbGQoZGRsPSd2YXJjaGFyKDUwKScpCiMgICAgIHN1bW1hcnkgPSBTdHJpbmdGaWVsZChkZGw9J3ZhcmNoYXIoMjAwKScpCiMgICAgIGNvbnRlbnQgPSBUZXh0RmllbGQoKQojICAgICBjcmVhdGVkX2F0ID0gRmxvYXRGaWVsZChkZWZhdWx0PXRpbWUudGltZSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMgYXdhaXQgYi5zYXZlKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHUuc2F2ZSgpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIgPSBCbG9nKHVzZXJfaWQ9J3VzZXJfaWQnLCB1c2VyX2ltYWdlPSd1c2VyX2ltYWdlJywgbmFtZT0nbmFtZScsIHN1bW1hcnk9J3MnLCBjb250ZW50PSdhJykK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHUuc2F2ZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHUgPSBVc2VyKG5hbWU9J1Rlc3QnLCBlbWFpbD0ndGVzdEBleGFtcGxlLmNvbScsIHBhc3N3ZD0nMTIzJywgaW1hZ2U9J2Fib3V0LmJsYW5rJykK</text>
+        <text encoding="base64">ICAgIGIgPSBCbG9nKHVzZXJfaWQ9J3VzZXJfaWQnLCB1c2VyX2ltYWdlPSd1c2VyX2ltYWdlJywgbmFtZT0nbmFtZScsIHN1bW1hcnk9J3MnLCBjb250ZW50PSdhJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgYXdhaXQgYy5zYXZlKCkK</text>
+        <text encoding="base64">ICAgIHUgPSBVc2VyKG5hbWU9J1Rlc3QnLCBlbWFpbD0ndGVzdEBleGFtcGxlLmNvbScsIHBhc3N3ZD0nMTIzJywgaW1hZ2U9J2Fib3V0LmJsYW5rJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHUuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICMgYXdhaXQgYy5zYXZlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pas</last-search>
+      <last-search>execute</last-search>
       <last-offset />
-      <last-pattern>pas</last-pattern>
+      <last-pattern>execute</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -244,6 +251,7 @@
         <entry>create_arg</entry>
         <entry>sql</entry>
         <entry>pas</entry>
+        <entry>execute</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
