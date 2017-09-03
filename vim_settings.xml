@@ -85,7 +85,7 @@
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504381248148">
+      <file name="/Dummy.txt" timestamp="1504416833886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,12 +128,12 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/models.py" timestamp="1504413827237">
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/models.py" timestamp="1504416956273">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="49" column="20" />
+        <mark key="^" line="49" column="20" />
+        <mark key="." line="49" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app3.py" timestamp="1504374462096">
         <mark key="[" line="3" column="35" />
@@ -230,7 +230,7 @@
         <text encoding="base64">ICAgICMgYXdhaXQgYy5zYXZlKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -254,9 +254,9 @@
         <entry>execute</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
