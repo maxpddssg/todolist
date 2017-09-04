@@ -22,6 +22,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" timestamp="1504524585727">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="41" />
+      </file>
+      <file name="/a.dummy" timestamp="1504522650316">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/app.py" timestamp="1504332524857">
         <mark key="[" line="8" column="89" />
         <mark key="]" line="8" column="89" />
@@ -39,6 +49,13 @@
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/orm.py" timestamp="1504379185121">
+        <mark key="'" line="214" column="13" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/generatorsample.py" timestamp="1504337679491">
         <mark key="[" line="15" column="12" />
@@ -126,6 +143,9 @@
         <mark key="^" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
+      <file name="/Python Console" timestamp="1504337682225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasstest.py" timestamp="1504228935067">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="13" column="6" />
@@ -151,9 +171,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="^" line="85" column="12" />
         <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/apis.py" timestamp="1504505346461">
-        <mark key="'" line="93" column="21" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -198,6 +215,13 @@
         <mark key="^" line="49" column="20" />
         <mark key="." line="49" column="20" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/decoratorsample.py" timestamp="1504422416024">
+        <mark key="'" line="34" column="28" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="10" />
+        <mark key="^" line="28" column="40" />
+        <mark key="." line="56" column="10" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app3.py" timestamp="1504374462096">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="37" />
@@ -215,9 +239,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/config.py" timestamp="1504505545519">
-        <mark key="'" line="55" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -287,16 +308,19 @@
       <jump line="149" column="9" filename="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" />
       <jump line="168" column="38" filename="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" />
       <jump line="33" column="12" filename="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" />
+      <jump line="9" column="27" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
+      <jump line="10" column="27" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
+      <jump line="12" column="36" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>raw_input</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGxvZ19maW5hbCh0ZXh0KToKICAgIGlmIGNhbGxhYmxlKHRleHQpOgogICAgICAgIGZ1bmMgPSB0ZXh0CgogICAgICAgIEBmdW5jdG9vbHMud3JhcHMoZnVuYykKICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgIHByaW50KCdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgcmV0dXJuIGZ1bmMoKmFyZ3MsICoqa3cpCiAgICAgICAgcmV0dXJuIHdyYXBwZXIKICAgIGVsc2U6CiAgICAgICAgZGVmIGRlY29yYXRvcihmdW5jKToKICAgICAgICAgICAgQGZ1bmN0b29scy53cmFwcyhmdW5jKQogICAgICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgICAgICBwcmludCh0ZXh0IG9yICdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgICAgIHJldHVybiBmdW5jKCphcmdzLCAqKmt3KQogICAgICAgICAgICByZXR1cm4gd3JhcHBlcgogICAgICAgIHJldHVybiBkZWNvcmF0b3IK</text>
@@ -333,9 +357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>raw_input</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>raw_input</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>raw_input</last-substitute>
       <last-dir>1</last-dir>
@@ -359,6 +383,7 @@
         <entry>www</entry>
         <entry encoding="base64">XDxjb25maWdzXD4=</entry>
         <entry>raw_input</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
