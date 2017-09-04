@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/todo_tornado/code.py" timestamp="1504500045400">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1504337682225">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,6 +214,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/p1/decoratorsample.py" />
       <jump line="31" column="0" filename="$USER_HOME$/PycharmProjects/p1/decoratorsample.py" />
       <jump line="25" column="28" filename="$USER_HOME$/PycharmProjects/p1/decoratorsample.py" />
+      <jump line="119" column="4" filename="$USER_HOME$/PycharmProjects/todo_tornado/code.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/PycharmProjects/todo_tornado/code.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -216,7 +225,7 @@
         <text>APIErro</text>
       </register>
       <register name="/" type="4">
-        <text>execute</text>
+        <text>\t</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGxvZ19maW5hbCh0ZXh0KToKICAgIGlmIGNhbGxhYmxlKHRleHQpOgogICAgICAgIGZ1bmMgPSB0ZXh0CgogICAgICAgIEBmdW5jdG9vbHMud3JhcHMoZnVuYykKICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgIHByaW50KCdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgcmV0dXJuIGZ1bmMoKmFyZ3MsICoqa3cpCiAgICAgICAgcmV0dXJuIHdyYXBwZXIKICAgIGVsc2U6CiAgICAgICAgZGVmIGRlY29yYXRvcihmdW5jKToKICAgICAgICAgICAgQGZ1bmN0b29scy53cmFwcyhmdW5jKQogICAgICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgICAgICBwcmludCh0ZXh0IG9yICdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgICAgIHJldHVybiBmdW5jKCphcmdzLCAqKmt3KQogICAgICAgICAgICByZXR1cm4gd3JhcHBlcgogICAgICAgIHJldHVybiBkZWNvcmF0b3IK</text>
@@ -253,9 +262,11 @@
       </register>
     </registers>
     <search>
-      <last-search>execute</last-search>
+      <last-search>\t</last-search>
       <last-offset />
-      <last-pattern>execute</last-pattern>
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -271,10 +282,14 @@
         <entry>sql</entry>
         <entry>pas</entry>
         <entry>execute</entry>
+        <entry>\t</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>%s//t/    /g</entry>
+        <entry>retab</entry>
+        <entry>%s/\t/    /g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
