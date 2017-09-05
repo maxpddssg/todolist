@@ -62,8 +62,8 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1504547042217">
-        <mark key="'" line="22" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1504547963650">
+        <mark key="'" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" timestamp="1504508468571">
         <mark key="'" line="33" column="12" />
@@ -101,6 +101,9 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/apis.py" timestamp="1504505346461">
+        <mark key="'" line="93" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt1.py" timestamp="1504415048392">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="4" column="31" />
@@ -134,6 +137,12 @@
         <mark key="]" line="36" column="17" />
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/blog2/templates/base.html" timestamp="1504547487288">
+        <mark key="'" line="26" column="6" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/apw3/www/config.py" timestamp="1504505545519">
+        <mark key="'" line="55" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -206,12 +215,18 @@
       <jump line="9" column="27" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
       <jump line="10" column="27" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
       <jump line="12" column="36" filename="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" />
-      <jump line="236" column="10" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="60" column="53" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="59" column="55" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/blog2/dist/libexample.py" />
       <jump line="79" column="12" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="22" column="7" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="88" column="5" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="26" column="6" filename="$USER_HOME$/PycharmProjects/blog2/templates/base.html" />
+      <jump line="124" column="0" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="62" column="12" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="236" column="9" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="17" column="18" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,7 +236,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdWJwcm9jZXNzXD4=</text>
+        <text encoding="base64">XDxleGVjdXRvclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGxvZ19maW5hbCh0ZXh0KToKICAgIGlmIGNhbGxhYmxlKHRleHQpOgogICAgICAgIGZ1bmMgPSB0ZXh0CgogICAgICAgIEBmdW5jdG9vbHMud3JhcHMoZnVuYykKICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgIHByaW50KCdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgcmV0dXJuIGZ1bmMoKmFyZ3MsICoqa3cpCiAgICAgICAgcmV0dXJuIHdyYXBwZXIKICAgIGVsc2U6CiAgICAgICAgZGVmIGRlY29yYXRvcihmdW5jKToKICAgICAgICAgICAgQGZ1bmN0b29scy53cmFwcyhmdW5jKQogICAgICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprdyk6CiAgICAgICAgICAgICAgICBwcmludCh0ZXh0IG9yICdjYWxsJywgZnVuYy5fX25hbWVfXykKICAgICAgICAgICAgICAgIHJldHVybiBmdW5jKCphcmdzLCAqKmt3KQogICAgICAgICAgICByZXR1cm4gd3JhcHBlcgogICAgICAgIHJldHVybiBkZWNvcmF0b3IK</text>
@@ -254,13 +269,13 @@
         <text encoding="base64">aW1wb3J0IGFwaXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-search>
+      <last-search encoding="base64">XDxleGVjdXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdWJwcm9jZXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleGVjdXRvclw+</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>raw_input</last-substitute>
       <last-dir>1</last-dir>
@@ -268,10 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>table</entry>
-        <entry>args</entry>
-        <entry>ARGS</entry>
-        <entry>pop</entry>
         <entry>int</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry>create_arg</entry>
@@ -287,17 +298,22 @@
         <entry>print</entry>
         <entry encoding="base64">XDxfX2ZpbGVfX1w+</entry>
         <entry encoding="base64">XDxzdWJwcm9jZXNzXD4=</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0eVw+</entry>
+        <entry>body</entry>
+        <entry>xsrf</entry>
+        <entry encoding="base64">XDxmdXR1cmVzXD4=</entry>
+        <entry encoding="base64">XDxleGVjdXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
         <entry>retab</entry>
         <entry>%s/\t/    /g</entry>
         <entry>%s/raw_input/input/g</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
