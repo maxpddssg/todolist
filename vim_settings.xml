@@ -113,8 +113,8 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1504801526339">
-        <mark key="'" line="19" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1504838538107">
+        <mark key="'" line="141" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" timestamp="1504508468571">
         <mark key="'" line="33" column="12" />
@@ -350,6 +350,7 @@
       <jump line="92" column="8" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="24" column="70" filename="$USER_HOME$/PycharmProjects/blog2/dist/futuresexample.py" />
       <jump line="19" column="7" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +360,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXJrZG93blw+</text>
+        <text>template</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">d2l0aCBmdXR1cmVzLlRocmVhZFBvb2xFeGVjdXRvcihtYXhfd29ya2Vycz0xMCkgYXMgZXhlY3V0b3I6Cg==</text>
@@ -396,9 +397,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXJrZG93blw+</last-search>
+      <last-search>template</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXJrZG93blw+</last-pattern>
+      <last-pattern>template</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>raw_input</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +407,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sql</entry>
         <entry>pas</entry>
         <entry>execute</entry>
         <entry>\t</entry>
@@ -426,6 +426,7 @@
         <entry>cookie</entry>
         <entry encoding="base64">XDxnZXRfY3VycmVudF91c2VyXD4=</entry>
         <entry encoding="base64">XDxtYXJrZG93blw+</entry>
+        <entry>template</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
