@@ -131,11 +131,11 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505211848208">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="39" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="27" column="39" />
+      <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505212057138">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+        <mark key="^" line="36" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todo_tornado/main.py" timestamp="1504511730700">
         <mark key="[" line="4" column="57" />
@@ -422,11 +422,11 @@
       <jump line="108" column="48" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
@@ -435,31 +435,31 @@
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
+        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JycnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0yCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHVuaW9uCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0xCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCcnJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">JycnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0yCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHVuaW9uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0xCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCcnJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCJzZWxlY3QgeC5hLCB4LmIgZnJvbSB4IikK</text>
+        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
