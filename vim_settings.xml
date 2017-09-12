@@ -131,11 +131,11 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505205499085">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505209258994">
+        <mark key="[" line="13" column="110" />
+        <mark key="]" line="13" column="110" />
+        <mark key="^" line="13" column="35" />
+        <mark key="." line="13" column="110" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todo_tornado/main.py" timestamp="1504511730700">
         <mark key="[" line="4" column="57" />
@@ -423,16 +423,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;sqlite+pysqlite://&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;)</text>
+        <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoInNxbGl0ZStweXNxbGl0ZTovLy8iICsgb3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksICJ0ZXN0LmRiIikpCg==</text>
