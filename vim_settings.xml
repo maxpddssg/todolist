@@ -88,11 +88,29 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/static/css/index.css" timestamp="1505195424333">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/main1.py" timestamp="1504762020898">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="43" />
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="43" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/templates/index.html" timestamp="1505195385566">
+        <mark key="[" line="9" column="82" />
+        <mark key="]" line="9" column="82" />
+        <mark key="." line="9" column="82" />
+        <mark key="^" line="9" column="75" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/application.py" timestamp="1505195776062">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="14" column="13" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" timestamp="1504245096189">
         <mark key="'" line="16" column="16" />
@@ -176,6 +194,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505195599757">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/futuresexample.py" timestamp="1504586619588">
         <mark key="'" line="32" column="70" />
         <mark key="[" line="22" column="13" />
@@ -191,6 +215,12 @@
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/model/entity.py" timestamp="1505195197288">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app2.py" timestamp="1504374021927">
         <mark key="[" line="12" column="16" />
@@ -221,6 +251,12 @@
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505196027773">
+        <mark key="[" line="14" column="44" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504357698199">
         <mark key="[" line="13" column="10" />
@@ -266,6 +302,12 @@
         <mark key="]" line="2" column="9872" />
         <mark key="^" line="2" column="9872" />
         <mark key="." line="2" column="9872" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/handlers/index.py" timestamp="1505195546527">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/templates/base.html" timestamp="1504547487288">
         <mark key="'" line="26" column="6" />
@@ -368,11 +410,11 @@
       <jump line="108" column="48" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBpbXBvcnQgc3FsaXRlMwo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>template</text>
@@ -449,9 +491,9 @@
         <entry>%s/\t/    /g</entry>
         <entry>%s/raw_input/input/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
