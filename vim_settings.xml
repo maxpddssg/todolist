@@ -148,8 +148,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1504854252107">
-        <mark key="'" line="109" column="48" />
+      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1505235761637">
+        <mark key="'" line="33" column="36" />
         <mark key="[" line="18" column="16" />
         <mark key="]" line="19" column="13" />
         <mark key="^" line="19" column="13" />
@@ -264,11 +264,11 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505198335145">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-        <mark key="." line="16" column="43" />
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505235772875">
+        <mark key="[" line="19" column="71" />
+        <mark key="]" line="19" column="69" />
+        <mark key="." line="19" column="69" />
+        <mark key="^" line="19" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504357698199">
         <mark key="[" line="13" column="10" />
@@ -420,55 +420,56 @@
       <jump line="19" column="7" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="141" column="0" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="108" column="48" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="33" column="36" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW1wb3J0IA==</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
+        <text encoding="base64">dG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
+        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JycnKQo=</text>
+        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0yCg==</text>
+        <text encoding="base64">JycnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVuaW9uCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0xCg==</text>
+        <text encoding="base64">ICAgIHVuaW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCcnJwo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCcnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>raw_input</last-substitute>
       <last-dir>1</last-dir>
@@ -476,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pas</entry>
         <entry>execute</entry>
         <entry>\t</entry>
         <entry>pass</entry>
@@ -496,6 +496,7 @@
         <entry encoding="base64">XDxnZXRfY3VycmVudF91c2VyXD4=</entry>
         <entry encoding="base64">XDxtYXJrZG93blw+</entry>
         <entry>template</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
