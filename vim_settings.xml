@@ -219,6 +219,12 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/.gitignore" timestamp="1505276264797">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="5" />
+        <mark key="^" line="102" column="5" />
+        <mark key="." line="102" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505275261675" />
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -424,7 +430,7 @@
         <text>PORT</text>
       </register>
       <register name="/" type="4">
-        <text>PORT</text>
+        <text>idea</text>
       </register>
       <register name="0" type="4">
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
@@ -461,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PORT</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern>PORT</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-replace>port</last-replace>
       <last-substitute>PORT</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\t</entry>
         <entry>pass</entry>
         <entry>passwo</entry>
         <entry>www</entry>
@@ -491,6 +496,7 @@
         <entry>template</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>PORT</entry>
+        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
