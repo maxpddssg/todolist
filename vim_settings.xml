@@ -100,6 +100,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/async_wget.py" timestamp="1505291195475">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="34" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="61" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/main1.py" timestamp="1504762020898">
         <mark key="[" line="14" column="26" />
         <mark key="]" line="14" column="43" />
@@ -225,7 +231,6 @@
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505275261675" />
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="23" />
@@ -267,6 +272,12 @@
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/exc.py" timestamp="1505288722511">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505273496650">
         <mark key="'" line="10" column="11" />
@@ -423,11 +434,11 @@
       <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>PORT</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -436,34 +447,34 @@
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgIFBPUlQgPSBzeXMuYXJndlsxXQo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaWYgbGVuKHN5cy5hcmd2KSA+IDE6Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIFBPUlQgPSBzeXMuYXJndlsxXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZzsgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
+        <text encoding="base64">ICAgICMgaWYgbGVuKHN5cy5hcmd2KSA+IDE6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZzsgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UE9SVCA9ICc4MDgwJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dG9yCg==</text>
+        <text encoding="base64">UE9SVCA9ICc4MDgwJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
+        <text encoding="base64">dG9yCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -473,7 +484,7 @@
       <last-replace>port</last-replace>
       <last-substitute>PORT</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -507,8 +518,8 @@
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>q</entry>
         <entry>%s/PORT/port/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -531,6 +542,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
