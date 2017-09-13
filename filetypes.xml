@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

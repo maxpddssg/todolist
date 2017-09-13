@@ -94,7 +94,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/static/css/index.css" timestamp="1505195424333">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/static/css/index.css" timestamp="1505273808529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
@@ -106,13 +106,13 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/templates/index.html" timestamp="1505195385566">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/templates/index.html" timestamp="1505273762178">
         <mark key="[" line="9" column="82" />
         <mark key="]" line="9" column="82" />
         <mark key="." line="9" column="82" />
         <mark key="^" line="9" column="75" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/application.py" timestamp="1505195776062">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/application.py" timestamp="1505273564483">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="13" />
@@ -206,7 +206,7 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505195599757">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505273582023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="23" />
         <mark key="^" line="6" column="23" />
@@ -219,16 +219,14 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/apis.py" timestamp="1504505346461">
-        <mark key="'" line="93" column="21" />
-      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505275261675" />
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/model/entity.py" timestamp="1505195197288">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/model/entity.py" timestamp="1505273648081">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="10" column="25" />
         <mark key="^" line="10" column="25" />
@@ -264,11 +262,12 @@
         <mark key="^" line="15" column="42" />
         <mark key="." line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505235772875">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="19" column="69" />
-        <mark key="." line="19" column="69" />
-        <mark key="^" line="19" column="69" />
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505273496650">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="22" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504357698199">
         <mark key="[" line="13" column="10" />
@@ -315,17 +314,11 @@
         <mark key="^" line="2" column="9872" />
         <mark key="." line="2" column="9872" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/handlers/index.py" timestamp="1505195546527">
+      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/handlers/index.py" timestamp="1505273635876">
         <mark key="[" line="9" column="47" />
         <mark key="]" line="10" column="46" />
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/templates/base.html" timestamp="1504547487288">
-        <mark key="'" line="26" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/config.py" timestamp="1504505545519">
-        <mark key="'" line="55" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -421,63 +414,63 @@
       <jump line="141" column="0" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="108" column="48" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="33" column="36" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
+      <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wb3J0IA==</text>
+        <text>PORT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRpb25zXD4=</text>
+        <text>PORT</text>
       </register>
       <register name="0" type="4">
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
+        <text encoding="base64">ICAgICMgICAgIFBPUlQgPSBzeXMuYXJndlsxXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXNzZXJ0IHJlc3VsdC5rZXlzKCkgPT0gWyJhIiwgImIiXQo=</text>
+        <text encoding="base64">ICAgICMgaWYgbGVuKHN5cy5hcmd2KSA+IDE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnKQo=</text>
+        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZzsgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0yCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVuaW9uCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCB4LmEsIHguYiBmcm9tIHggd2hlcmUgYT0xCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0ID0gY29ubi5leGVjdXRlKCcnJwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">UE9SVCA9ICc4MDgwJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dG9yCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">cHJpbnQodC5nZXRBbGxYKClbMF0pCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
+      <last-search>PORT</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
-      <last-replace>input</last-replace>
-      <last-substitute>raw_input</last-substitute>
+      <last-pattern>PORT</last-pattern>
+      <last-replace>port</last-replace>
+      <last-substitute>PORT</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>execute</entry>
         <entry>\t</entry>
         <entry>pass</entry>
         <entry>passwo</entry>
@@ -497,6 +490,7 @@
         <entry encoding="base64">XDxtYXJrZG93blw+</entry>
         <entry>template</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry>PORT</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
@@ -506,8 +500,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>q</entry>
-        <entry>wq</entry>
+        <entry>%s/PORT/port/g</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -527,6 +522,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
