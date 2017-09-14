@@ -100,11 +100,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/async_wget.py" timestamp="1505292672386">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-        <mark key="^" line="22" column="121" />
+      <file name="$USER_HOME$/PycharmProjects/p1/async_wget.py" timestamp="1505295082378">
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/main1.py" timestamp="1504762020898">
         <mark key="[" line="14" column="26" />
@@ -149,6 +149,7 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -434,11 +435,11 @@
       <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgncHJlcGFyZSByZWFkLi4uJykK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -447,31 +448,31 @@
         <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncHJlcGFyZSByZWFkLi4uJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ub3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbGluZScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgIFBPUlQgPSBzeXMuYXJndlsxXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnbGluZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgaWYgbGVuKHN5cy5hcmd2KSA+IDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlYWRlci5mZWVkX2VvZigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBpbXBvcnQgbG9nZ2luZzsgbG9nZ2luZy5iYXNpY0NvbmZpZyhsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWFkZXIuYXRfZW9mKCk6IGJyZWFrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWFkZXIuYXRfZW9mKCk6IGJyZWFrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignZmlsZS5odG1sJywgJ3diJykgYXMgZm91dDoKICAgICAgICBmb3V0LndyaXRlKGInJy5qb2luKGxzdCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UE9SVCA9ICc4MDgwJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLmRlY29kZSgndXRmLTgnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -516,9 +517,9 @@
         <entry>%s/raw_input/input/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
-        <entry>q</entry>
         <entry>%s/PORT/port/g</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
