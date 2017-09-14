@@ -150,10 +150,11 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505413771603">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505415473668">
+        <mark key="[" line="11" column="52" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="6" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
@@ -350,11 +351,11 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505411607569">
-        <mark key="[" line="6" column="7" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505415331434">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app3.py" timestamp="1504374462096">
         <mark key="[" line="3" column="35" />
@@ -484,17 +485,17 @@
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKHN0cihzZWxmLmdldF9xdWVyeV9hcmd1bWVudCgnbmV4dCcpKS5lbmNvZGUoJ3V0Zi04JykpCg==</text>
+      <register name="0" type="4">
+        <text>self.get_argument('next', '/')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
