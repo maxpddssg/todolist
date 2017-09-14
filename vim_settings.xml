@@ -150,6 +150,11 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505413771603">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -168,6 +173,12 @@
         <mark key="]" line="14" column="13" />
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/showhandler.py" timestamp="1505412674994">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app5.py" timestamp="1504375149754">
         <mark key="[" line="17" column="35" />
@@ -213,6 +224,12 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/urls.py" timestamp="1505412755725">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505273582023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="23" />
@@ -231,6 +248,13 @@
         <mark key="]" line="102" column="5" />
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505412570485">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -313,12 +337,24 @@
         <mark key="^" line="63" column="13" />
         <mark key="." line="63" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/basehandler.py" timestamp="1505411474575">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/libexample.py" timestamp="1504546673234">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="35" column="36" />
         <mark key="]" line="36" column="17" />
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505411607569">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app3.py" timestamp="1504374462096">
         <mark key="[" line="3" column="35" />
@@ -337,6 +373,18 @@
         <mark key="]" line="10" column="46" />
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505412497963">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/aiohttpclient.py" timestamp="1505356402523">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -433,63 +481,63 @@
       <jump line="108" column="48" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="33" column="36" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" />
+      <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncHJlcGFyZSByZWFkLi4uJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;sqlite+pysqlite:///&quot; + os.path.join(os.path.dirname(__file__), &quot;test.db&quot;))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKHN0cihzZWxmLmdldF9xdWVyeV9hcmd1bWVudCgnbmV4dCcpKS5lbmNvZGUoJ3V0Zi04JykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncHJlcGFyZSByZWFkLi4uJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbGluZScpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbGluZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLndyaXRlKCdjb29raWUgZ2Nvb2tpZSB3YXMgc2V0IGFzOiAnICsgc2VsZi5nZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScpLmRlY29kZSgndXRmLTgnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlYWRlci5mZWVkX2VvZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWFkZXIuYXRfZW9mKCk6IGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZWFkZXIuYXRfZW9mKCk6IGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScsICdnY29va2lldmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignZmlsZS5odG1sJywgJ3diJykgYXMgZm91dDoKICAgICAgICBmb3V0LndyaXRlKGInJy5qb2luKGxzdCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnY29va2llOiBnY29va2llIHdhcyBub3Qgc2V0IHlldC4nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5nZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5lLmRlY29kZSgndXRmLTgnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
-      <last-replace>port</last-replace>
-      <last-substitute>PORT</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pass</entry>
         <entry>passwo</entry>
         <entry>www</entry>
         <entry encoding="base64">XDxjb25maWdzXD4=</entry>
@@ -509,6 +557,7 @@
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>PORT</entry>
         <entry>idea</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
@@ -520,6 +569,7 @@
         <entry>%s/PORT/port/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/&quot;/'/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
