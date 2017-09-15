@@ -3,32 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/todo_tornado/code.py" timestamp="1504503754168">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="36" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/handlers.py" timestamp="1504506376886">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/sqlalchemy_sqlite.py" timestamp="1505204730647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="33" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" timestamp="1504524585727">
-        <mark key="'" line="12" column="36" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="41" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/index.html" timestamp="1505463049580">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/app.py" timestamp="1504332524857">
         <mark key="[" line="8" column="89" />
@@ -48,25 +33,11 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/orm.py" timestamp="1504379185121">
-        <mark key="'" line="214" column="13" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/generatorsample.py" timestamp="1504337679491">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/.gitignore" timestamp="1504410843090">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="55" column="12" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app4.py" timestamp="1504374774859">
         <mark key="[" line="12" column="16" />
@@ -79,20 +50,6 @@
         <mark key="]" line="22" column="17" />
         <mark key="^" line="22" column="17" />
         <mark key="." line="22" column="17" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/orm.py" timestamp="1504416013821">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="50" column="60" />
-        <mark key="]" line="50" column="60" />
-        <mark key="^" line="50" column="60" />
-        <mark key="." line="50" column="60" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/coroweb.py" timestamp="1504505461756">
-        <mark key="'" line="172" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/static/css/index.css" timestamp="1505273808529">
         <mark key="[" line="0" column="0" />
@@ -124,13 +81,6 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" timestamp="1504245096189">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/itersample.py" timestamp="1504337841254">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="24" />
@@ -150,30 +100,15 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505415473668">
-        <mark key="[" line="11" column="52" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="6" column="66" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505452590077">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1505235761637">
-        <mark key="'" line="33" column="36" />
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" timestamp="1504508468571">
-        <mark key="'" line="33" column="12" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/showhandler.py" timestamp="1505412674994">
         <mark key="[" line="6" column="28" />
@@ -205,31 +140,17 @@
         <mark key="^" line="8" column="93" />
         <mark key="." line="8" column="93" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/app.py" timestamp="1504506273065">
-        <mark key="'" line="121" column="44" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/ormsample.py" timestamp="1504245319320">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="85" column="12" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt.py" timestamp="1504416349161">
         <mark key="[" line="6" column="24" />
         <mark key="]" line="6" column="24" />
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/urls.py" timestamp="1505412755725">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/urls.py" timestamp="1505460833501">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505273582023">
         <mark key="[" line="0" column="0" />
@@ -237,12 +158,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/dist/futuresexample.py" timestamp="1504586619588">
-        <mark key="'" line="32" column="70" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/logouthandler.py" timestamp="1505452881650">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="5" column="49" />
+        <mark key="^" line="5" column="49" />
+        <mark key="." line="5" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/.gitignore" timestamp="1505276264797">
         <mark key="[" line="102" column="0" />
@@ -250,12 +170,12 @@
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505412570485">
+      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505461651355">
         <mark key="'" line="7" column="15" />
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -281,13 +201,6 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/ormt1.py" timestamp="1504415048392">
-        <mark key="'" line="4" column="1" />
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1505277623047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -305,13 +218,6 @@
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" timestamp="1505273496650">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="10" column="11" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/appasync.py" timestamp="1504357698199">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="13" column="15" />
@@ -324,32 +230,11 @@
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="73" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/apw3/www/models.py" timestamp="1504416956273">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="49" column="20" />
-        <mark key="]" line="49" column="20" />
-        <mark key="^" line="49" column="20" />
-        <mark key="." line="49" column="20" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/decoratorsample.py" timestamp="1504546802968">
-        <mark key="'" line="34" column="28" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="13" />
-        <mark key="^" line="63" column="13" />
-        <mark key="." line="63" column="13" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/basehandler.py" timestamp="1505411474575">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/dist/libexample.py" timestamp="1504546673234">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="36" column="17" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="36" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505415331434">
         <mark key="[" line="2" column="20" />
@@ -375,11 +260,10 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505412497963">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="10" column="29" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="10" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505460733546">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/aiohttpclient.py" timestamp="1505356402523">
         <mark key="[" line="15" column="38" />
@@ -486,43 +370,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>self.get_argument('next', '/')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxoMT57eyByZXF1ZXN0LnVyaSB9fTwvaDE+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRvcm5hZG8uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLndyaXRlKCdjb29raWUgZ2Nvb2tpZSB3YXMgc2V0IGFzOiAnICsgc2VsZi5nZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScpLmRlY29kZSgndXRmLTgnKSkK</text>
+        <text encoding="base64">ICAgICAgICB0b3JuYWRvLndlYi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHJlcQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScsICdnY29va2lldmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmJykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKHN0cihsZW4oYXJncykpLmVuY29kZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnY29va2llOiBnY29va2llIHdhcyBub3Qgc2V0IHlldC4nKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYud3JpdGUoc3RyKHNlbGYuZ2V0X2FyZ3VtZW50KCduZXh0JywgJy8nKSkuZW5jb2RlKCd1dGYtOCcpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5nZXRfc2VjdXJlX2Nvb2tpZSgnZ2Nvb2tpZScpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
