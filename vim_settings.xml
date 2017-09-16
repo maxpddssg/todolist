@@ -96,6 +96,12 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505540171751">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505212057138">
         <mark key="[" line="34" column="21" />
         <mark key="]" line="36" column="17" />
@@ -387,10 +393,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -426,7 +432,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -471,8 +477,8 @@
         <entry>%s/PORT/port/g</entry>
         <entry>q</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
