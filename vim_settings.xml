@@ -15,11 +15,10 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/index.html" timestamp="1505464038219">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="52" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="52" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/index.html" timestamp="1505540950114">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505536218250">
         <mark key="[" line="0" column="0" />
@@ -96,11 +95,11 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505540171751">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505542667175">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505212057138">
         <mark key="[" line="34" column="21" />
@@ -390,55 +389,56 @@
       <jump line="33" column="36" filename="$USER_HOME$/PycharmProjects/blog2/blog.py" />
       <jump line="10" column="11" filename="$USER_HOME$/PycharmProjects/mvc_helloword_py3/server.py" />
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/PycharmProjects/todolist/templates/base.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dvdXQ/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIG91dCIpIH19PC9hPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxibG9ja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxoMT48c3Bhbj5ib2R5OiA8L3NwYW4+e3sgcmVxdWVzdC5ib2R5IH19PC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dvdXQ/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIG91dCIpIH19PC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlcXVlc3QuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dvdXQ/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIG91dCIpIH19PC9hPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b3JuYWRvLndlYi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9jcmVhdGU/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIHVwIikgfX08L2E+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dpbj9uZXh0PXt7IHVybF9lc2NhcGUocmVxdWVzdC51cmkgfX0iPnt7IF8oIlNpZ24gaW4iKSB9fTwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKHN0cihsZW4oYXJncykpLmVuY29kZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGlmIHVzZXIgJX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYud3JpdGUoc3RyKHNlbGYuZ2V0X2FyZ3VtZW50KCduZXh0JywgJy8nKSkuZW5jb2RlKCd1dGYtOCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dpbj9uZXh0PXt7IHVybF9lc2NhcGUocmVxdWVzdC51cmkgfX0iPnt7IF8oIlNpZ24gaW4iKSB9fTwvYT4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9jcmVhdGU/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIHVwIikgfX08L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9jcmVhdGU/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIHVwIikgfX08L2E+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxibG9ja1w+</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxibG9ja1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry>passwo</entry>
         <entry>www</entry>
         <entry encoding="base64">XDxjb25maWdzXD4=</entry>
         <entry>raw_input</entry>
@@ -466,6 +465,7 @@
         <entry>PORT</entry>
         <entry>idea</entry>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDxibG9ja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
