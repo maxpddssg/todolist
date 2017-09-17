@@ -15,10 +15,10 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/index.html" timestamp="1505540950114">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/index.html" timestamp="1505652114771">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1505536218250">
         <mark key="[" line="0" column="0" />
@@ -121,22 +121,22 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505651096797">
-        <mark key="[" line="11" column="77" />
-        <mark key="]" line="11" column="77" />
-        <mark key="." line="11" column="77" />
-        <mark key="^" line="11" column="77" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505652053225">
+        <mark key="[" line="15" column="83" />
+        <mark key="]" line="15" column="83" />
+        <mark key="." line="15" column="83" />
+        <mark key="^" line="15" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" timestamp="1505651149584">
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" timestamp="1505651938306">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="104" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
         <mark key="^" line="22" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/showhandler.py" timestamp="1505621995099">
@@ -431,10 +431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -443,31 +443,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVuZGVyKCdsb2dpbi5odG1sJywgZXJyb3I9J1Bhc3N3b3JkIGluY29ycmVjdCEnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ1NFTEVDVCBpZCwgcGFzc3dvcmQgRlJPTSB1c2VycyB3aGVyZSBpZD17fSBMSU1JVCAxJy5mb3JtYXQoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgnaWQnKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnaW5nLmluZm8oJ1NFTEVDVCBpZCwgcGFzc3dvcmQgRlJPTSB1c2VycyB3aGVyZSBpZD17fSBMSU1JVCAxJy5mb3JtYXQoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgnaWQnKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVuZGVyKCdjcmVhdGVfdXNlci5odG1sJywgZXJyb3I9J1VzZXIge30gZXhpc3RzIXh4eCcuZm9ybWF0KGlkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVuZGVyKCdjcmVhdGVfdXNlci5odG1sJywgZXJyb3I9J1VzZXIge30gZXhpc3RzIXh4eCcuZm9ybWF0KGlkKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoZWRfcGFzc3dvcmQgPSBiY3J5cHQuaGFzaHB3KHRvcm5hZG8uZXNjYXBlLnV0Zjgoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgncGFzc3dvcmQnKSksIGJjcnlwdC5nZW5zYWx0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNoZWRfcGFzc3dvcmQgPSBiY3J5cHQuaGFzaHB3KHRvcm5hZG8uZXNjYXBlLnV0Zjgoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgncGFzc3dvcmQnKSksIGJjcnlwdC5nZW5zYWx0KCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
