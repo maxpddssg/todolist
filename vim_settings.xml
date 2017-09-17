@@ -82,7 +82,7 @@
         <mark key="^" line="55" column="12" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/create_user.html" timestamp="1505647946766">
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/create_user.html" timestamp="1505650006629">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="22" />
         <mark key="]" line="5" column="8" />
@@ -177,10 +177,11 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505535304387">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505650294495">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
         <mark key="[" line="19" column="0" />
@@ -194,12 +195,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" timestamp="1505648559917">
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" timestamp="1505648727739">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="104" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
-        <mark key="^" line="21" column="48" />
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" timestamp="1504508468571">
         <mark key="'" line="33" column="12" />
@@ -414,12 +415,12 @@
         <mark key="^" line="36" column="17" />
         <mark key="." line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505621678973">
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/login.html" timestamp="1505650077967">
         <mark key="'" line="2" column="15" />
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app3.py" timestamp="1504374462096">
         <mark key="[" line="3" column="35" />
@@ -556,10 +557,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">KCkpIA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">KCkpIA==</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
@@ -568,31 +569,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVuZGVyKCdjcmVhdGVfdXNlci5odG1sJywgZXJyb3I9J1VzZXIge30gZXhpc3RzIScuZm9ybWF0KGlkKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmVuZGVyKCdjcmVhdGVfdXNlci5odG1sJywgZXJyb3I9J1VzZXIge30gZXhpc3RzIXh4eCcuZm9ybWF0KGlkKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNoZWRfcGFzc3dvcmQgPSBiY3J5cHQuaGFzaHB3KHRvcm5hZG8uZXNjYXBlLnV0Zjgoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgncGFzc3dvcmQnKSksIGJjcnlwdC5nZW5zYWx0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNoZWRfcGFzc3dvcmQgPSBiY3J5cHQuaGFzaHB3KHRvcm5hZG8uZXNjYXBlLnV0Zjgoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgncGFzc3dvcmQnKSksIGJjcnlwdC5nZW5zYWx0KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnRXhhbXBsZXMnKQo=</text>
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -640,8 +641,8 @@
         <entry>%s/PORT/port/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>%s/debug/info/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
