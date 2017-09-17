@@ -82,6 +82,13 @@
         <mark key="^" line="55" column="12" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/create_user.html" timestamp="1505632264144">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/app4.py" timestamp="1504374774859">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="19" />
@@ -187,6 +194,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" timestamp="1505633620023">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/awesome-python3-webapp/fabfile.py" timestamp="1504508468571">
         <mark key="'" line="33" column="12" />
         <mark key="[" line="14" column="12" />
@@ -244,11 +257,11 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/urls.py" timestamp="1505460833501">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/urls.py" timestamp="1505632300400">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="14" column="31" />
+        <mark key="." line="14" column="31" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/mvc_helloword_py3/urls.py" timestamp="1505273582023">
         <mark key="[" line="0" column="0" />
@@ -281,18 +294,18 @@
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505628906696">
-        <mark key="'" line="17" column="39" />
-        <mark key="[" line="42" column="65" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="11" />
-        <mark key="^" line="43" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505631668296">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="35" column="60" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="61" />
+        <mark key="^" line="35" column="61" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/main.py" timestamp="1505626995458">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/main.py" timestamp="1505630940812">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="5" column="54" />
+        <mark key="." line="5" column="54" />
+        <mark key="^" line="5" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -425,11 +438,11 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505625147101">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-        <mark key="^" line="18" column="36" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505630856489">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+        <mark key="^" line="7" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/aiohttpclient.py" timestamp="1505356402523">
         <mark key="[" line="15" column="38" />
@@ -439,8 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
-      <jump line="71" column="7" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
       <jump line="10" column="15" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
       <jump line="26" column="55" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
       <jump line="17" column="0" filename="$USER_HOME$/PycharmProjects/p1/ormsample.py" />
@@ -535,66 +546,68 @@
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
       <jump line="19" column="29" filename="$USER_HOME$/PycharmProjects/todolist/templates/base.html" />
       <jump line="2" column="15" filename="$USER_HOME$/PycharmProjects/todolist/templates/login.html" />
-      <jump line="0" column="1" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
       <jump line="32" column="11" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
       <jump line="17" column="39" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="31" column="17" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/todolist/templates/create_user.html" />
+      <jump line="10" column="48" filename="$USER_HOME$/PycharmProjects/todolist/handlers/createHandler.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibG9ja1w+</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZW5kZXIoJ2luZGV4Lmh0bWwnLCBlbnRpdHk9ZW50aXR5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnRXhhbXBsZXMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNoZWRfcGFzc3dvcmQgPSBiY3J5cHQuaGFzaHB3KHRvcm5hZG8uZXNjYXBlLnV0Zjgoc2VsZi5nZXRfYm9keV9hcmd1bWVudCgncGFzc3dvcmQnKSksIGJjcnlwdC5nZW5zYWx0KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHRvcm5hZG8uZXNjYXBlLnhodG1sX2VzY2FwZShzZWxmLmN1cnJlbnRfdXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzZWxmLnJlZGlyZWN0KGInL2xvZ2luJykK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLmN1cnJlbnRfdXNlcjoK</text>
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnRXhhbXBsZXMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHRvcm5hZG8uZXNjYXBlLnhodG1sX2VzY2FwZShzZWxmLmN1cnJlbnRfdXNlcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibG9ja1w+</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibG9ja1w+</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>debug</last-pattern>
+      <last-replace>info</last-replace>
+      <last-substitute>debug</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>www</entry>
         <entry encoding="base64">XDxjb25maWdzXD4=</entry>
         <entry>raw_input</entry>
         <entry>print</entry>
@@ -614,6 +627,7 @@
         <entry>idea</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxibG9ja1w+</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>%s//t/    /g</entry>
@@ -626,6 +640,7 @@
         <entry>%s/&quot;/'/g</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/debug/info/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
