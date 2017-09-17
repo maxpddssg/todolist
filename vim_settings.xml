@@ -151,11 +151,11 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505623481058">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505624215614">
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="13" column="69" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="69" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505212057138">
         <mark key="[" line="34" column="21" />
@@ -255,6 +255,11 @@
         <mark key="]" line="6" column="23" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/indexexample.html" timestamp="1505625159502">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/futuresexample.py" timestamp="1504586619588">
         <mark key="'" line="32" column="70" />
@@ -414,11 +419,11 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505623261902">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505625147101">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/aiohttpclient.py" timestamp="1505356402523">
         <mark key="[" line="15" column="38" />
@@ -526,47 +531,47 @@
       <jump line="2" column="15" filename="$USER_HOME$/PycharmProjects/todolist/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>, entity=entity)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibG9ja1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9sb2dvdXQ/bmV4dD17eyB1cmxfZXNjYXBlKHJlcXVlc3QudXJpIH19Ij57eyBfKCJTaWduIG91dCIpIH19PC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZW5kZXIoJ2luZGV4Lmh0bWwnLCBlbnRpdHk9ZW50aXR5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICBzZWxmLnJlZGlyZWN0KGInL2xvZ2luJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi53cml0ZSgnRXhhbXBsZXMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLmN1cnJlbnRfdXNlcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZSA9IHRvcm5hZG8uZXNjYXBlLnhodG1sX2VzY2FwZShzZWxmLmN1cnJlbnRfdXNlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICBzZWxmLnJlZGlyZWN0KGInL2xvZ2luJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PC9ib2R5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLmN1cnJlbnRfdXNlcjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9mb3JtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGJvZHk+Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGh0bWw+Cg==</text>
+        <text encoding="base64">PC9ib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -609,10 +614,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>%s/PORT/port/g</entry>
-        <entry>q</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
