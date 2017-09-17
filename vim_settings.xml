@@ -281,12 +281,18 @@
         <mark key="^" line="102" column="5" />
         <mark key="." line="102" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505626376564">
-        <mark key="'" line="8" column="15" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="31" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="31" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/application.py" timestamp="1505628906696">
+        <mark key="'" line="17" column="39" />
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/main.py" timestamp="1505626995458">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/config_default.py" timestamp="1504506292436">
         <mark key="[" line="15" column="21" />
@@ -381,11 +387,11 @@
         <mark key="^" line="63" column="13" />
         <mark key="." line="63" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/basehandler.py" timestamp="1505411474575">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/basehandler.py" timestamp="1505629002659">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/libexample.py" timestamp="1504546673234">
         <mark key="'" line="9" column="0" />
@@ -529,13 +535,16 @@
       <jump line="7" column="15" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
       <jump line="19" column="29" filename="$USER_HOME$/PycharmProjects/todolist/templates/base.html" />
       <jump line="2" column="15" filename="$USER_HOME$/PycharmProjects/todolist/templates/login.html" />
+      <jump line="0" column="1" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
+      <jump line="17" column="39" filename="$USER_HOME$/PycharmProjects/todolist/application.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMj5ieSA8YSBocmVmPSJodHRwOi8vd3d3LnRoZTVmaXJlLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPnt7IGVudGl0eS5uYW1lIH19PC9hPjwvaDI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>, entity=entity)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibG9ja1w+</text>
