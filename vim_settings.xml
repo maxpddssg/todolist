@@ -177,10 +177,10 @@
         <mark key="." line="4" column="57" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505652053225">
-        <mark key="[" line="15" column="83" />
-        <mark key="]" line="15" column="83" />
-        <mark key="." line="15" column="83" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505713524333">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
         <mark key="^" line="15" column="83" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
@@ -209,7 +209,7 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/showhandler.py" timestamp="1505669059137">
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/showhandler.py" timestamp="1505712928593">
         <mark key="[" line="12" column="58" />
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
@@ -375,6 +375,18 @@
         <mark key="]" line="11" column="73" />
         <mark key="^" line="11" column="73" />
         <mark key="." line="11" column="73" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/newtodo.html" timestamp="1505713429711">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/newtodohandler.py" timestamp="1505713740811">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/apw3/www/models.py" timestamp="1504416956273">
         <mark key="'" line="35" column="0" />
@@ -557,16 +569,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>; logging.basicConfig(level=logging.DEBUG)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>; logging.basicConfig(level=logging.DEBUG)</text>
       </register>
       <register name="/" type="4">
         <text>debug</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJkYXRlIiBuYW1lPSJkYXRlIj48YnI+Cg==</text>
+        <text encoding="base64">ICAgIEJlZ2luOiA8aW5wdXQgdHlwZT0iZGF0ZSIgbmFtZT0iZGF0ZV9iZWdpbiI+PGlucHV0IHR5cGU9InRpbWVfYmVnaW4iIG5hbWU9InRpbWUiPjxicj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnaW5nCg==</text>
@@ -640,8 +652,8 @@
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>%s/PORT/port/g</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>wq</entry>
         <entry>%s/debug/info/g</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
