@@ -23,11 +23,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/static/css/index.css" timestamp="1505463265507">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/static/css/index.css" timestamp="1505810069500">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/bcriptexample.py" timestamp="1504524585727">
         <mark key="'" line="12" column="36" />
@@ -159,11 +159,11 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505807393119">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="17" column="69" />
-        <mark key="." line="17" column="69" />
-        <mark key="^" line="17" column="69" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/base.html" timestamp="1505810106170">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/a1/sqlalchemy_sqlite.py" timestamp="1505212057138">
         <mark key="[" line="34" column="21" />
@@ -177,18 +177,12 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/file.html" timestamp="1505294261198" />
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505799582931">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="16" column="137" />
         <mark key="]" line="16" column="138" />
         <mark key="." line="16" column="138" />
         <mark key="^" line="16" column="138" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/blog2/blog1.py" timestamp="1505198268249">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/blog.py" timestamp="1505235761637">
         <mark key="'" line="33" column="36" />
@@ -280,10 +274,11 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/templates/indexexample.html" timestamp="1505625159502">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/todolist/templates/indexexample.html" timestamp="1505810170318">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/blog2/dist/futuresexample.py" timestamp="1504586619588">
         <mark key="'" line="32" column="70" />
@@ -292,7 +287,6 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/a2/sqli.py" timestamp="1505536110004" />
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/logouthandler.py" timestamp="1505452881650">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="5" column="49" />
@@ -348,11 +342,6 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
         <mark key="^" line="4" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1505277623047">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/tornadosample/helloweb.py" timestamp="1504504594342">
         <mark key="[" line="0" column="0" />
@@ -462,12 +451,12 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505807514412">
+      <file name="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" timestamp="1505807783787">
         <mark key="'" line="17" column="67" />
-        <mark key="[" line="17" column="106" />
-        <mark key="]" line="17" column="91" />
-        <mark key="." line="17" column="91" />
-        <mark key="^" line="17" column="91" />
+        <mark key="[" line="17" column="186" />
+        <mark key="]" line="17" column="204" />
+        <mark key="." line="17" column="204" />
+        <mark key="^" line="17" column="204" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/p1/aiohttpclient.py" timestamp="1505356402523">
         <mark key="[" line="15" column="38" />
@@ -580,10 +569,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -592,31 +581,31 @@
         <text encoding="base64">ICAgIHByaW50KCd0aXRsZTonLCB0b2RvLnRpdGxlLCAnY29udGVudDonLCB0b2RvLmNvbnRlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjcnNvciA9IHNlbGYuZGIuZXhlY3V0ZSgnJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yID0gc2VsZi5kYi5jdXJzb3IoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjcnNvciA9IHNlbGYuZGIuZXhlY3V0ZSgnJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yID0gc2VsZi5kYi5jdXJzb3IoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKHNlbGYucmVxdWVzdC5xdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5ID0gRW50aXR5LmdldChzZWxmLmN1cnJlbnRfdXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2luZy5pbmZvKHNlbGYucmVxdWVzdC5xdWVyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxoMT48c3Bhbj5yZW1vdGVfaXA6IDwvc3Bhbj57eyByZXF1ZXN0LnJlbW90ZV9pcCB9fTwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXR5ID0gRW50aXR5LmdldChzZWxmLmN1cnJlbnRfdXNlcikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxoMT48c3Bhbj5ib2R5OiA8L3NwYW4+e3sgcmVxdWVzdC5ib2R5IH19PC9oMT4K</text>
+        <text encoding="base64">ICAgIDxoMT48c3Bhbj5yZW1vdGVfaXA6IDwvc3Bhbj57eyByZXF1ZXN0LnJlbW90ZV9pcCB9fTwvaDE+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxoMT48c3Bhbj52ZXJzaW9uOiA8L3NwYW4+e3sgcmVxdWVzdC52ZXJzaW9uIH19PC9oMT4K</text>
+        <text encoding="base64">ICAgIDxoMT48c3Bhbj5ib2R5OiA8L3NwYW4+e3sgcmVxdWVzdC5ib2R5IH19PC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
