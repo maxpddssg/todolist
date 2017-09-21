@@ -143,6 +143,13 @@
         <mark key="^" line="14" column="13" />
         <mark key="." line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/p1/q10.py" timestamp="1506010546161">
+        <mark key="'" line="37" column="6" />
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="55" column="8" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/p1/metaclasssample.py" timestamp="1504245096189">
         <mark key="'" line="16" column="16" />
         <mark key="[" line="16" column="27" />
@@ -469,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="21" column="4" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="107" column="125" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="202" column="0" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
@@ -569,6 +575,7 @@
       <jump line="31" column="8" filename="$USER_HOME$/PycharmProjects/todolist/handlers/newtodohandler.py" />
       <jump line="7" column="14" filename="$USER_HOME$/PycharmProjects/todolist/model/todo.py" />
       <jump line="15" column="67" filename="$USER_HOME$/PycharmProjects/todolist/handlers/index.py" />
+      <jump line="37" column="6" filename="$USER_HOME$/PycharmProjects/p1/q10.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
