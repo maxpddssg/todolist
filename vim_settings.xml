@@ -191,12 +191,12 @@
         <mark key="^" line="4" column="57" />
         <mark key="." line="4" column="57" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/p1/sort/sort.py" timestamp="1506078139356">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="53" column="20" />
-        <mark key="^" line="53" column="20" />
+      <file name="$USER_HOME$/PycharmProjects/p1/sort/sort.py" timestamp="1506082232527">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/todolist/handlers/loginhandler.py" timestamp="1505799582931">
         <mark key="'" line="4" column="0" />
@@ -496,7 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="214" column="13" filename="$USER_HOME$/PycharmProjects/apw3/orm.py" />
       <jump line="55" column="12" filename="$USER_HOME$/PycharmProjects/apw3/.gitignore" />
       <jump line="222" column="0" filename="$USER_HOME$/PycharmProjects/apw3/www/orm.py" />
@@ -596,13 +595,14 @@
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/p1/quicksort.py" />
       <jump line="26" column="53" filename="$USER_HOME$/PycharmProjects/p1/quicksort.py" />
       <jump line="21" column="0" filename="$USER_HOME$/PycharmProjects/p1/sort/sort.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/PycharmProjects/p1/sort/sort.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGxzdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -611,31 +611,31 @@
         <text encoding="base64">ICAgIHByaW50KCd0aXRsZTonLCB0b2RvLnRpdGxlLCAnY29udGVudDonLCB0b2RvLmNvbnRlbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShpLTEsIC0xLCAtMSk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGxzdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgbHN0W2ldIDwgbHN0W2ktMV06CiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShpLTEsIC0xLCAtMSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0KHJhbmdlKDEwLDEsLTEpKV0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">aWYgbHN0W2ldIDwgbHN0W2ktMV06CiAgICAgICAgICAgIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbMSwyLDMsMzQsNSw2LDcsOF0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRlZiBwYXJ0aXRpb24obHN0LCBsbywgaGkpOgogICAgICAgIHBpdm90ID0gbHN0W2hpLTFdCiAgICAgICAgaSA9IGxvCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobG8sIGhpKToKICAgICAgICAgICAgaWYgbHN0W2pdIDwgcGl2b3Q6CiAgICAgICAgICAgICAgICBsc3RbaV0sIGxzdFtqXSA9IGxzdFtqXSwgbHN0W2ldCiAgICAgICAgICAgICAgICBpICs9IDEKICAgICAgICBsc3RbaV0sIGxzdFtoaS0xXSA9IGxzdFtoaS0xXSwgbHN0W2ldCiAgICAgICAgcmV0dXJuIGkK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBsaXN0KHJhbmdlKDEwLDEsLTEpKV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbMSwyLDMsMzQsNSw2LDcsOF0sCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWlja3NvcnQobHN0LCBwKzEsIGhpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIGRlZiBwYXJ0aXRpb24obHN0LCBsbywgaGkpOgogICAgICAgIHBpdm90ID0gbHN0W2hpLTFdCiAgICAgICAgaSA9IGxvCiAgICAgICAgZm9yIGogaW4gcmFuZ2UobG8sIGhpKToKICAgICAgICAgICAgaWYgbHN0W2pdIDwgcGl2b3Q6CiAgICAgICAgICAgICAgICBsc3RbaV0sIGxzdFtqXSA9IGxzdFtqXSwgbHN0W2ldCiAgICAgICAgICAgICAgICBpICs9IDEKICAgICAgICBsc3RbaV0sIGxzdFtoaS0xXSA9IGxzdFtoaS0xXSwgbHN0W2ldCiAgICAgICAgcmV0dXJuIGkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
